@@ -7,6 +7,6 @@
 🚀 Tecnologias
 HTML5
 CSS3
-Flexbox / Grade
+Flexbox / Grade 
 Fontes do Google
 SVGs e imagens otimizadas
