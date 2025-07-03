@@ -8,5 +8,5 @@
 HTML5
 CSS3
 Flexbox / Grade
-Fontes do Google (Inter)
+Fontes do Google
 SVGs e imagens otimizadas
